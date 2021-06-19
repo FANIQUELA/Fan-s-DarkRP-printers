@@ -1,2 +1,2 @@
 # Fan-s-DarkRP-printers
-Built for test my self and understand LUA knowledge.  You can freely edit or share the addon.
+I created this addon for improve my LUA knowledge. You can freely edit or share this addon.
